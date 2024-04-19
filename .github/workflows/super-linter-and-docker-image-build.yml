@@ -48,4 +48,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: goranpopov322/homework05I:latest
+          tags: goranpopov322/homework05i:latest
